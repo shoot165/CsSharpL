@@ -1,0 +1,7 @@
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\bin\Debug\Pr5.exe.config
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\bin\Debug\Pr5.exe
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\bin\Debug\Pr5.pdb
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\obj\Debug\Pr5.csproj.AssemblyReference.cache
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\obj\Debug\Pr5.csproj.CoreCompileInputs.cache
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\obj\Debug\Pr5.exe
+C:\Users\Ne1te\CSharpLabs2024\CSharpLabs2024\Pr5\obj\Debug\Pr5.pdb
